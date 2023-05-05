@@ -1,4 +1,4 @@
-module gorm.io/driver/sqlite
+module github.com/h4rvey99/gorm-sqlcipher
 
 go 1.14
 
